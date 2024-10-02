@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/lucasguaru/ludwig-project.git
-    cd drawn-piano
+    cd ludwig-project
     ```
 
 2. **Install the required dependencies:**
